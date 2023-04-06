@@ -1,5 +1,5 @@
 # Intel-I-Reader-Assistive-for-Visually-Impaired
-The app has three main features - OCR, currency recognition, and text translation. To use OCR, tap on the OCR button on the main screen. You can then point your camera at any text you want to recognize and tap on the screen to listen to the text. If you want to manage the recognized text, you can long-press on the screen to bring up the Text Manager.
+The android app has three main features - OCR, currency recognition, and text translation. To use OCR, tap on the OCR button on the main screen. You can then point your camera at any text you want to recognize and tap on the screen to listen to the text. If you want to manage the recognized text, you can long-press on the screen to bring up the Text Manager.
 
 To recognize currency, tap on the Currency button on the main screen. Point your camera at the currency you want to recognize, and the app will detect the currency and speak out the value.
 
