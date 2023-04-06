@@ -6,3 +6,8 @@ To recognize currency, tap on the Currency button on the main screen. Point your
 To translate text, tap on the Translate button on the main screen. Select the target language from the language spinner, then enter the text you want to translate. Tap on the Translate button at the bottom of the screen to start the translation.
 
 The Text Manager allows you to manage the text recognized by the OCR feature. You can select options at the bottom of the screen to perform actions like copy, edit, or delete the recognized text.
+
+Simply integrated the app with simple concept like:
+* OCR
+* Currency recognition
+* Text translation
