@@ -11,3 +11,5 @@ Simply integrated the app with simple concept like:
 * OCR
 * Currency recognition
 * Text translation
+
+### The application can be utilized by downloading it from the 'Release' section of this page and subsequently acquiring it from the 'Asset' section of the release session.
