@@ -19,4 +19,4 @@ Simply integrated the app with simple concept like:
 ## Currency Detection
 ![3](https://user-images.githubusercontent.com/57263794/231133249-43efe042-bc11-4a69-a95a-df245aa38e5d.jpg)
 
-### The application can be utilized by downloading it from the 'Release' section of this page and subsequently acquiring it from the 'Asset' section of the release session or click here --> [Link](https://github.com/Christeen-Jose/Intel-I-Reader-Assistive-for-Visually-Impaired/releases/download/v1.0.0/app-release.apk)
+### The application can be utilized by downloading it from the 'Release' section of this page and subsequently acquiring it from the 'Asset' section of the release session or click here ----> [Link](https://github.com/Christeen-Jose/Intel-I-Reader-Assistive-for-Visually-Impaired/releases/download/v1.0.0/app-release.apk)
